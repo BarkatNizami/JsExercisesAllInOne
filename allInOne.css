@@ -1,0 +1,12 @@
+body {
+    font: 'Raleway', sans-serif;
+    text-align: Center;
+    background: linear-gradient(to right, #00FFFF , #800080);
+
+}
+
+
+
+li {
+    list-style-type: none;
+}
